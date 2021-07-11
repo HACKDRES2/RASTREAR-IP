@@ -14,3 +14,6 @@ $ cd RASTREAR-IP
 $ ls
 
 $ bash Rastrear.sh
+
+Link de mi canal de youtube 
+https://youtube.com/channel/UCTSAjBuSJiqSYXd_dqg4qBg
