@@ -17,3 +17,6 @@ $ bash Rastrear.sh
 
 Link de mi canal de youtube 
 https://youtube.com/channel/UCTSAjBuSJiqSYXd_dqg4qBg
+
+
+Este script es 100% mio y es de código abierto
